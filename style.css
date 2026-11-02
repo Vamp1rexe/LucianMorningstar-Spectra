@@ -451,3 +451,5 @@ body.has-ide .hud{display:none}
   .ph b,.ph em{font-size:8.5px}
   #boot span{font-size:44px}
 }
+
+.journey.solo{grid-template-columns:minmax(0,1fr);max-width:860px}
